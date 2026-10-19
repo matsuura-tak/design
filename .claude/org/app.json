@@ -1,0 +1,25 @@
+{
+  "org_version": "0.2.0",
+  "app_name": "design",
+  "idea": "作品の名前は当てず、自分の言葉で観る。一人でできる対話型鑑賞のアプリ",
+  "owner": "matsuura-tak",
+  "stacks": [
+    "ios",
+    "backend"
+  ],
+  "paths": {
+    "ios": "ios/",
+    "backend": "backend/",
+    "design": "design/",
+    "contracts": "contracts/",
+    "acceptance_tests": [
+      "ios/AcceptanceTests/",
+      "backend/tests/acceptance/"
+    ]
+  },
+  "commands": {
+    "ios_build": "",
+    "ios_test": "",
+    "backend_test": ""
+  }
+}
